@@ -41,5 +41,8 @@
         "ignore": [
             "data/*.*"
         ]
+    },
+    "engines": {
+        "node": "13.x"
     }
 }
